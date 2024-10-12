@@ -1,5 +1,5 @@
 # Mini-Application
-A menu system I have created to display my skills in C#. 
+A menu system I have created to display a basic understanding of C#. 
 
 # Functionality
 * Verifies ISBN numbers
